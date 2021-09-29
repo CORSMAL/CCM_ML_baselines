@@ -1,0 +1,11 @@
+name: ml_basel_corsmal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - librosa==0.8.0
+  - pandas==1.2.3
+  - scikit-learn==0.24.1
+  - scikit-image==0.18.1
+  - tqdm==4.60.0
+prefix: C:\Users\santi\anaconda3\envs\ml_basel
